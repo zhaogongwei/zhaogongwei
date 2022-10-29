@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Zhao Gonwei👋
+
+> A Front end developer from **SuZhou, China**.
 
 <!--
 **zhaogongwei/zhaogongwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
